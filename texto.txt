@@ -1,0 +1,3 @@
+Primeira aula de Git - Terça - 30.07.2024
+
+Alterando o txt.
