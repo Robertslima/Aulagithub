@@ -3,3 +3,5 @@ Primeira aula de Git - Terça - 30.07.2024
 Alterando o txt.
 
 Aula do dia 01.08.2024
+
+Alterei na master.
